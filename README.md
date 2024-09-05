@@ -4,4 +4,4 @@ AIML Programs for Teaching
 2. Lab02-AIML Implement AI Search
 3. Lab03-AIM Implement AI Game Strategy using Adversarial Search Algorithms
 4. Lab04-AIML USA_Housing_Machine_Learning (Linear_Regression)
-5. Lab05-AIML.ipynb
+5. Lab05-AIML
